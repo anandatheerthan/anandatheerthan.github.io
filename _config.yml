@@ -1,3 +1,4 @@
 --- 
 markdown: kramdown
 name: "Ananda Theerthan"
+permalink: /blog/:year/:month/:day/:title
